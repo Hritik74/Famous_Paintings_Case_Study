@@ -6,6 +6,14 @@ This project explores the Famous Paintings & Museum dataset by solving SQL probl
 
 ---
 
+## Technologies Used
+
+- **SQL (MySQL)**: Used for querying and managing the dataset in the database.
+- **Python (Visual Studio Code)**: Used for data ingestion and automation tasks (e.g., loading data into MySQL Workbench).
+- **GitHub**: Used for version control and collaboration.
+
+---
+
 ## Database Schema
 
 The Famous Paintings & Museum dataset includes the following tables and their relationships:
@@ -122,6 +130,5 @@ You can download the dataset from the following link:
 Alternatively, you can access the Kaggle dataset here:
 
 [Kaggle Dataset - Famous Paintings](https://www.kaggle.com/datasets/mexwell/famous-paintings)
-
 
 ---
