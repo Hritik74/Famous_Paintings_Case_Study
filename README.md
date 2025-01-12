@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project explores the Famous Paintings & Museum dataset by solving SQL problems to extract meaningful insights about museums, paintings, artists, and canvas sizes. It involves analyzing relationships between entities, handling invalid data, and optimizing queries for better performance.
+This project explores the Famous Paintings & Museums dataset by using Python to load the datasets into MySQL Workbench in a structured and efficient manner. It then solves SQL problems to extract meaningful insights about museums, paintings, artists, and canvas sizes. The project involves analyzing relationships between entities, handling invalid data, and optimizing queries for better performance.
 
 ---
 
