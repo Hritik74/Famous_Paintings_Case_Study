@@ -2,7 +2,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 from urllib.parse import quote_plus
 
-password = quote_plus('Hritik!7020603977') 
+password = quote_plus('your password') 
 
 # MySQL connection string
 conn_string = 'mysql+pymysql://root:' + password + '@localhost/paintings'
