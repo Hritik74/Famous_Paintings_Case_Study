@@ -79,9 +79,7 @@ The Famous Paintings & Museum dataset includes the following tables and their re
 
 ### Schema Diagram
 
-![Database Schema](C:\Users\Hritik Kadam\Desktop\SQL\Famous Painting Case Study\Schema.png)
-
-> **Note:** Update the image link above with your schema diagram file (`schema_image.png`) to visualize the relationships.
+![Database Schema](https://github.com/Hritik74/Famous_Paintings_Case_Study/blob/main/Schema.png?raw=true)
 
 ---
 
