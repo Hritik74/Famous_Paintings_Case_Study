@@ -117,6 +117,6 @@ This project solves the following SQL queries to explore and analyze the dataset
 
 You can download the dataset from the following link:
 
-[Download Dataset](data/your_dataset_file.zip)
+[Download Dataset]([data/your_dataset_file.zip](https://github.com/Hritik74/Famous_Paintings_Case_Study/blob/main/Famous%20Painting%20Case%20Study%20Data.zip))
 
 ---
