@@ -117,6 +117,13 @@ This project solves the following SQL queries to explore and analyze the dataset
 
 You can download the dataset from the following link:
 
+You can download the dataset from the following link:
+
 [Download Dataset](Famous_Paintings_Case_Study/Famous_Painting_Case_Study_Data.zip)
+
+Alternatively, you can access the Kaggle dataset here:
+
+[Kaggle Dataset - Famous Paintings](https://www.kaggle.com/datasets/mexwell/famous-paintings)
+
 
 ---
