@@ -363,8 +363,7 @@ WHERE
     AND cte_city.rnk = 1;
 
 
- /* 18) Identify the artist and the museum where the most expensive and least expensive painting is placed. 
-		Display the artist name, sale_price, painting name, museum name, museum city and canvas label */	
+ -- 18) Identify the artist and the museum where the most expensive and least expensive painting is placed. Display the artist name, sale_price, painting name, museum name, museum city and canvas label.
 
 WITH cte AS (
     SELECT 
@@ -479,12 +478,4 @@ FROM
 	cte 
 WHERE 
     no_of_paintings = (SELECT MAX(no_of_paintings) FROM cte);
-
-
-
-
-
-							
-
-
 
