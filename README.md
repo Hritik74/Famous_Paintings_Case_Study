@@ -1,6 +1,6 @@
 # Famous Paintings & Museums - SQL Project
 
-(https://raw.githubusercontent.com/Hritik74/Famous_Paintings_Case_Study/main/Image.jpg)
+![ ](https://raw.githubusercontent.com/Hritik74/Famous_Paintings_Case_Study/main/Image.jpg)
 
 ## Project Overview
 
