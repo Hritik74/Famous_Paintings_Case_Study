@@ -8,7 +8,7 @@ FROM
     work
 WHERE
     museum_id IS NULL;
-    
+
 
 -- 2) Are there museuems without any paintings?
 
